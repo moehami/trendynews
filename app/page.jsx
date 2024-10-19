@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 //const cards = [
     //{ text: 'Hello', linkText: 'someLink', href: '/' }
-];
+//];
 
 //const contextExplainer = `
 The card below is rendered on the server based on the value of \`process.env.CONTEXT\` 
